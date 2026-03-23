@@ -1,27 +1,43 @@
 # 👋 Hi, I'm Willian Nisichara
 
-**Senior Analytics & BI Engineer | Power BI (DAX), SQL, Python, GCP | Supply Chain Analytics | Data Modeling & Automation**
+**Senior BI Developer | Analytics Engineer | SQL, Python, Power BI | Supply Chain Analytics  **
 
-I build end‑to‑end analytics solutions that connect business strategy with scalable data products.  
-My work spans data modeling, semantic layers, automation, cloud analytics and executive dashboards for decision‑makers across LATAM.
+I build scalable data products that turn complex business processes into reliable decision-making systems.
 
-🔧 **Tech Stack**
+With experience across LATAM operations, I design and deliver end-to-end analytics solutions — from data modeling and pipeline automation to executive dashboards — supporting supply chain and finance teams across 12+ countries.
+
+🚀 Impact Highlights
+
+- Automated reporting workflows, reducing manual effort by 700+ hours annually  
+- Delivered analytics solutions supporting 3+ business areas (Supply Chain, Product Supply, Finance)  
+- Built scalable data models and dashboards used for operational and executive decision-making across LATAM  
+
+🔧 Tech Stack
+
 - Power BI (DAX, M, Data Modeling, Performance Optimization)  
-- SQL (Advanced), Python for Data Automation  
+- SQL (Advanced), Python (Data Automation & Pipelines)  
 - BigQuery (GCP), SAP, Denodo, Databricks  
 - ETL/ELT, Data Quality, KPI Design  
-- Supply Chain Analytics, Inventory, Cost, OTIF, Forecasting/Budget Foundations  
 
-📊 **What I’m focusing on now**
-- Machine Learning foundations (forecasting, classification, regression)  
-- AI‑assisted analytics and Generative AI  
-- Building a public portfolio with real‑world analytics solutions  
+📊 Domain Expertise
 
-🚀 **Featured Projects (coming soon)**
+- Supply Chain Analytics (Inventory, Cost, OTIF)  
+- Financial Analytics & Performance Tracking  
+- Data Modeling & Scalable Analytics Architecture  
+
+📈 What I’m focusing on now
+
+- Machine Learning for Forecasting & Planning  
+- AI-assisted analytics & Generative AI  
+- Building production-ready data portfolio projects  
+
+🚀 Featured Projects
+
 - Supply Chain Executive Dashboard (Power BI)  
 - Inventory Closing Automation (Python + BigQuery)  
 - Demand & Inventory Forecasting Model (ML)  
-- SQL Analytics End‑to‑End (with Data Quality Checks)  
+- End-to-End SQL Analytics with Data Quality Framework  
 
-🌎 Open to remote opportunities (US/EU time zones)  
-Let’s connect and build something great.
+🌎 Open to international remote opportunities (US/EU time zones)
+
+Let’s connect and build scalable data solutions.
