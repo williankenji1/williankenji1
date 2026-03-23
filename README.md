@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Willian Nisichara
 
-**Senior BI Developer | Analytics Engineer | SQL, Python, Power BI | Supply Chain Analytics  **
+Senior BI Developer | Analytics Engineer | SQL, Python, Power BI | Supply Chain Analytics
 
 I build scalable data products that turn complex business processes into reliable decision-making systems.
 
