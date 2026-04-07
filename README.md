@@ -41,3 +41,4 @@ With experience across LATAM operations, I design and deliver end-to-end analyti
 🌎 Open to international remote opportunities (US/EU time zones)
 
 Let’s connect and build scalable data solutions.
+GitHub portfolio available upon request (private repositories).
